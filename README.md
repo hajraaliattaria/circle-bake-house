@@ -44,8 +44,7 @@ circle-bake-house/
 │
 ├── js/
 │   └── script.js
-│
-└── screenshots/
+
 ```
 
 ---
@@ -61,21 +60,7 @@ git clone https://github.com/hajraaliattaria/circle-bake-house.git
 2. Open the project folder.
 
 3. Open `index.html` in your preferred web browser.
-
----
-
-## 📸 Screenshots
-
-```
-screenshots/
-<img width="1523" height="726" alt="Screenshot 2026-08-02 174152" src="https://github.com/user-attachments/assets/186216ec-bac1-460c-9e8c-eed62836ef48" />
-<img width="1518" height="727" alt="Screenshot 2026-08-02 174353" src="https://github.com/user-attachments/assets/782e1a16-1e3e-4dba-986b-7a0ffcce92ee" />
-<img width="1520" height="725" alt="Screenshot 2026-08-02 174240" src="https://github.com/user-attachments/assets/b8cd449c-03fe-4681-abdd-bf6bb37e2910" />
-<img width="1521" height="721" alt="Screenshot 2026-08-02 174305" src="https://github.com/user-attachments/assets/565ec7c6-7cf0-4c04-aca8-8c371a8cef71" />
-<img width="1516" height="715" alt="Screenshot 2026-08-02 174325" src="https://github.com/user-attachments/assets/c2743715-51aa-4307-9641-e543d6c45299" />
-
-```
-
+   
 ---
 
 ## 📌 Future Improvements
