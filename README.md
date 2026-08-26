@@ -38,12 +38,8 @@ This project is intended for educational and portfolio purposes only and is not 
 circle-bake-house/
 │── index.html
 │── README.md
-│
-├── css/
-│   └── style.css
-│
-├── js/
-│   └── script.js
+│──style.css
+├──script.js
 
 ```
 
