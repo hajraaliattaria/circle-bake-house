@@ -14,7 +14,7 @@ This project is intended for educational and portfolio purposes only and is not 
 
 ## ✨ Features
 
-- 🍰 Responsive design for desktop, tablet, and mobile
+- 🍰 Responsive design for desktop
 - 🧁 Modern bakery landing page
 - 🍞 Attractive product showcase
 - 📍 About and Contact sections
@@ -62,7 +62,7 @@ circle-bake-house/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/hajraaliattaria/circle-bake-house.git
+https://github.com/hajraaliattaria/circle-bake-house.git
 ```
 
 2. Open the project folder.
