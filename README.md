@@ -26,8 +26,8 @@ This project is intended for educational and portfolio purposes only and is not 
 
 ## 🛠️ Built With
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 ---
@@ -36,11 +36,23 @@ This project is intended for educational and portfolio purposes only and is not 
 
 ```
 circle-bake-house/
-│── index.html
-│── README.md
-│──style.css
-├──script.js
-
+│
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+└── pics/
+    ├── appetizers.jpg
+    ├── artisan-bread.jpg
+    ├── bakery-breads.jpg
+    ├── burger.jpg
+    ├── chocolate-cake.jpg
+    ├── croissant.jpg
+    ├── dessert.jpg
+    ├── pizza.jpg
+    ├── savoury-rolls.jpg
+    └── special-pizza.jpg
 ```
 
 ---
